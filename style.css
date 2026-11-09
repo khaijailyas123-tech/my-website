@@ -151,3 +151,8 @@ footer a:hover{color:var(--lilac)}
   .btn.ghost{margin:12px 0 0 0}
 }
 @media (prefers-reduced-motion:reduce){.dot{animation:none}html{scroll-behavior:auto}}
+
+.from{color:var(--muted);font-size:16px;margin-bottom:12px !important}
+.from b{display:block;font-family:var(--head);font-size:34px;color:var(--text);line-height:1.1;margin:2px 0}
+.from span{font-size:15px}
+.pnote{text-align:center;color:var(--muted);font-size:16px;margin-top:28px}
